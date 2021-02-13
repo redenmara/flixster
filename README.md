@@ -19,7 +19,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/vnsFtnW.gif)
+![](https://i.imgur.com/Itj5Uvc.gif)
 
 ### Notes
 A challenge I had was learning Swift syntax and the functionality of UIKit classes.

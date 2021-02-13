@@ -1,6 +1,6 @@
-# flixster
+# Flixster
 
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ---
 
@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src=https://imgur.com/3kQIHnK width=250><br>
+![](https://i.imgur.com/vnsFtnW.gif)
 
 ### Notes
 A challenge I had was learning Swift syntax and the functionality of UIKit classes.

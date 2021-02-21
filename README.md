@@ -16,7 +16,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/td0sVZr.gif)
+![](https://i.imgur.com/bQ6SJfK.gif)
 
 ### Notes
 There was no backdrop image url for "The Flash". I had to modify the code in order to to select a poster I found online

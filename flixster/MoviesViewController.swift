@@ -88,8 +88,5 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         detailViewController.movie = movie
         
         tableView.deselectRow(at: indexPath, animated: true)
-        
     }
-    
-
 }
